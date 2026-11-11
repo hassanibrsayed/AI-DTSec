@@ -1,0 +1,406 @@
+hard,constrained,seed,round,target,eps,attacker,n,evasion
+ES,1,0,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.29750001430511475
+ES,1,0,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.375
+ES,1,0,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.2874999940395355
+ES,1,0,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.39250001311302185
+ES,1,0,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.19499999284744263
+ES,1,0,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.9775000214576721
+ES,1,0,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.987500011920929
+ES,1,0,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.9700000286102295
+ES,1,0,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.9850000143051147
+ES,1,0,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.824999988079071
+ES,1,0,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,0,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,0,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,0,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,0,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9975000023841858
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.5849999785423279
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5924999713897705
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.5774999856948853
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.5824999809265137
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5274999737739563
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.6274999976158142
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6274999976158142
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.625
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.6274999976158142
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.5899999737739563
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.6349999904632568
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.6349999904632568
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.6349999904632568
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.6349999904632568
+ES,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.6274999976158142
+ES,1,0,round 0 (clean),Recon,0.25,ES (training attacker),400,0.017500000074505806
+ES,1,0,round 0 (clean),Recon,0.25,ES 5x budget,400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,0.25,ES annealed,400,0.017500000074505806
+ES,1,0,round 0 (clean),Recon,0.25,PGD white-box,400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,0.25,PGD transfer,400,0.012500000186264515
+ES,1,0,round 0 (clean),Recon,0.5,ES (training attacker),400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,0.5,ES 5x budget,400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,0.5,ES annealed,400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,0.5,PGD white-box,400,0.02250000089406967
+ES,1,0,round 0 (clean),Recon,0.5,PGD transfer,400,0.019999999552965164
+ES,1,0,round 0 (clean),Recon,1.0,ES (training attacker),400,0.04749999940395355
+ES,1,0,round 0 (clean),Recon,1.0,ES 5x budget,400,0.05249999836087227
+ES,1,0,round 0 (clean),Recon,1.0,ES annealed,400,0.04749999940395355
+ES,1,0,round 0 (clean),Recon,1.0,PGD white-box,400,0.054999999701976776
+ES,1,0,round 0 (clean),Recon,1.0,PGD transfer,400,0.02500000037252903
+ES,1,0,round 1,ARP_Spoofing,0.25,ES (training attacker),400,0.8999999761581421
+ES,1,0,round 1,ARP_Spoofing,0.25,ES 5x budget,400,0.9725000262260437
+ES,1,0,round 1,ARP_Spoofing,0.25,ES annealed,400,0.8949999809265137
+ES,1,0,round 1,ARP_Spoofing,0.25,PGD white-box,400,0.9825000166893005
+ES,1,0,round 1,ARP_Spoofing,0.25,PGD transfer,400,0.057500001043081284
+ES,1,0,round 1,ARP_Spoofing,0.5,ES (training attacker),400,0.9975000023841858
+ES,1,0,round 1,ARP_Spoofing,0.5,ES 5x budget,400,1.0
+ES,1,0,round 1,ARP_Spoofing,0.5,ES annealed,400,0.9975000023841858
+ES,1,0,round 1,ARP_Spoofing,0.5,PGD white-box,400,1.0
+ES,1,0,round 1,ARP_Spoofing,0.5,PGD transfer,400,0.06499999761581421
+ES,1,0,round 1,ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,0,round 1,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,0,round 1,ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,0,round 1,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,0,round 1,ARP_Spoofing,1.0,PGD transfer,400,0.19499999284744263
+ES,1,0,round 1,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.5024999976158142
+ES,1,0,round 1,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5049999952316284
+ES,1,0,round 1,MQTT-Malformed_Data,0.25,ES annealed,400,0.5049999952316284
+ES,1,0,round 1,MQTT-Malformed_Data,0.25,PGD white-box,400,0.5074999928474426
+ES,1,0,round 1,MQTT-Malformed_Data,0.25,PGD transfer,400,0.23749999701976776
+ES,1,0,round 1,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.5199999809265137
+ES,1,0,round 1,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.5199999809265137
+ES,1,0,round 1,MQTT-Malformed_Data,0.5,ES annealed,400,0.5199999809265137
+ES,1,0,round 1,MQTT-Malformed_Data,0.5,PGD white-box,400,0.5224999785423279
+ES,1,0,round 1,MQTT-Malformed_Data,0.5,PGD transfer,400,0.27250000834465027
+ES,1,0,round 1,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.5699999928474426
+ES,1,0,round 1,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.5699999928474426
+ES,1,0,round 1,MQTT-Malformed_Data,1.0,ES annealed,400,0.5575000047683716
+ES,1,0,round 1,MQTT-Malformed_Data,1.0,PGD white-box,400,0.5649999976158142
+ES,1,0,round 1,MQTT-Malformed_Data,1.0,PGD transfer,400,0.2574999928474426
+ES,1,0,round 1,Recon,0.25,ES (training attacker),400,0.004999999888241291
+ES,1,0,round 1,Recon,0.25,ES 5x budget,400,0.004999999888241291
+ES,1,0,round 1,Recon,0.25,ES annealed,400,0.004999999888241291
+ES,1,0,round 1,Recon,0.25,PGD white-box,400,0.004999999888241291
+ES,1,0,round 1,Recon,0.25,PGD transfer,400,0.0
+ES,1,0,round 1,Recon,0.5,ES (training attacker),400,0.014999999664723873
+ES,1,0,round 1,Recon,0.5,ES 5x budget,400,0.014999999664723873
+ES,1,0,round 1,Recon,0.5,ES annealed,400,0.012500000186264515
+ES,1,0,round 1,Recon,0.5,PGD white-box,400,0.014999999664723873
+ES,1,0,round 1,Recon,0.5,PGD transfer,400,0.004999999888241291
+ES,1,0,round 1,Recon,1.0,ES (training attacker),400,0.029999999329447746
+ES,1,0,round 1,Recon,1.0,ES 5x budget,400,0.032499998807907104
+ES,1,0,round 1,Recon,1.0,ES annealed,400,0.02500000037252903
+ES,1,0,round 1,Recon,1.0,PGD white-box,400,0.03500000014901161
+ES,1,0,round 1,Recon,1.0,PGD transfer,400,0.0
+ES,1,0,round 2,ARP_Spoofing,0.25,ES (training attacker),400,0.47749999165534973
+ES,1,0,round 2,ARP_Spoofing,0.25,ES 5x budget,400,0.5774999856948853
+ES,1,0,round 2,ARP_Spoofing,0.25,ES annealed,400,0.4699999988079071
+ES,1,0,round 2,ARP_Spoofing,0.25,PGD white-box,400,0.6050000190734863
+ES,1,0,round 2,ARP_Spoofing,0.25,PGD transfer,400,0.05999999865889549
+ES,1,0,round 2,ARP_Spoofing,0.5,ES (training attacker),400,0.9725000262260437
+ES,1,0,round 2,ARP_Spoofing,0.5,ES 5x budget,400,0.9950000047683716
+ES,1,0,round 2,ARP_Spoofing,0.5,ES annealed,400,0.9775000214576721
+ES,1,0,round 2,ARP_Spoofing,0.5,PGD white-box,400,0.9950000047683716
+ES,1,0,round 2,ARP_Spoofing,0.5,PGD transfer,400,0.042500000447034836
+ES,1,0,round 2,ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,0,round 2,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,0,round 2,ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,0,round 2,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,0,round 2,ARP_Spoofing,1.0,PGD transfer,400,0.19249999523162842
+ES,1,0,round 2,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.512499988079071
+ES,1,0,round 2,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5325000286102295
+ES,1,0,round 2,MQTT-Malformed_Data,0.25,ES annealed,400,0.5099999904632568
+ES,1,0,round 2,MQTT-Malformed_Data,0.25,PGD white-box,400,0.5350000262260437
+ES,1,0,round 2,MQTT-Malformed_Data,0.25,PGD transfer,400,0.10999999940395355
+ES,1,0,round 2,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.5450000166893005
+ES,1,0,round 2,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.550000011920929
+ES,1,0,round 2,MQTT-Malformed_Data,0.5,ES annealed,400,0.5475000143051147
+ES,1,0,round 2,MQTT-Malformed_Data,0.5,PGD white-box,400,0.5550000071525574
+ES,1,0,round 2,MQTT-Malformed_Data,0.5,PGD transfer,400,0.1574999988079071
+ES,1,0,round 2,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.5799999833106995
+ES,1,0,round 2,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.5924999713897705
+ES,1,0,round 2,MQTT-Malformed_Data,1.0,ES annealed,400,0.5874999761581421
+ES,1,0,round 2,MQTT-Malformed_Data,1.0,PGD white-box,400,0.5950000286102295
+ES,1,0,round 2,MQTT-Malformed_Data,1.0,PGD transfer,400,0.18250000476837158
+ES,1,0,round 2,Recon,0.25,ES (training attacker),400,0.032499998807907104
+ES,1,0,round 2,Recon,0.25,ES 5x budget,400,0.032499998807907104
+ES,1,0,round 2,Recon,0.25,ES annealed,400,0.032499998807907104
+ES,1,0,round 2,Recon,0.25,PGD white-box,400,0.032499998807907104
+ES,1,0,round 2,Recon,0.25,PGD transfer,400,0.0024999999441206455
+ES,1,0,round 2,Recon,0.5,ES (training attacker),400,0.03750000149011612
+ES,1,0,round 2,Recon,0.5,ES 5x budget,400,0.03750000149011612
+ES,1,0,round 2,Recon,0.5,ES annealed,400,0.03500000014901161
+ES,1,0,round 2,Recon,0.5,PGD white-box,400,0.03750000149011612
+ES,1,0,round 2,Recon,0.5,PGD transfer,400,0.007499999832361937
+ES,1,0,round 2,Recon,1.0,ES (training attacker),400,0.05249999836087227
+ES,1,0,round 2,Recon,1.0,ES 5x budget,400,0.05999999865889549
+ES,1,0,round 2,Recon,1.0,ES annealed,400,0.04749999940395355
+ES,1,0,round 2,Recon,1.0,PGD white-box,400,0.05249999836087227
+ES,1,0,round 2,Recon,1.0,PGD transfer,400,0.02250000089406967
+ES,1,1,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.1850000023841858
+ES,1,1,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.21250000596046448
+ES,1,1,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.18250000476837158
+ES,1,1,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.2199999988079071
+ES,1,1,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.13750000298023224
+ES,1,1,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.6075000166893005
+ES,1,1,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.7250000238418579
+ES,1,1,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.5874999761581421
+ES,1,1,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.8050000071525574
+ES,1,1,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.49000000953674316
+ES,1,1,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,1,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,1,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,1,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,1,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9850000143051147
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.6175000071525574
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.6225000023841858
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.6000000238418579
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.625
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5325000286102295
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.7049999833106995
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.7074999809265137
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.699999988079071
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.7049999833106995
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.6424999833106995
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.7124999761581421
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.7200000286102295
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.7174999713897705
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.7225000262260437
+ES,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.6875
+ES,1,1,round 0 (clean),Recon,0.25,ES (training attacker),400,0.03750000149011612
+ES,1,1,round 0 (clean),Recon,0.25,ES 5x budget,400,0.042500000447034836
+ES,1,1,round 0 (clean),Recon,0.25,ES annealed,400,0.042500000447034836
+ES,1,1,round 0 (clean),Recon,0.25,PGD white-box,400,0.042500000447034836
+ES,1,1,round 0 (clean),Recon,0.25,PGD transfer,400,0.032499998807907104
+ES,1,1,round 0 (clean),Recon,0.5,ES (training attacker),400,0.05000000074505806
+ES,1,1,round 0 (clean),Recon,0.5,ES 5x budget,400,0.05000000074505806
+ES,1,1,round 0 (clean),Recon,0.5,ES annealed,400,0.05000000074505806
+ES,1,1,round 0 (clean),Recon,0.5,PGD white-box,400,0.05249999836087227
+ES,1,1,round 0 (clean),Recon,0.5,PGD transfer,400,0.04749999940395355
+ES,1,1,round 0 (clean),Recon,1.0,ES (training attacker),400,0.05249999836087227
+ES,1,1,round 0 (clean),Recon,1.0,ES 5x budget,400,0.05249999836087227
+ES,1,1,round 0 (clean),Recon,1.0,ES annealed,400,0.054999999701976776
+ES,1,1,round 0 (clean),Recon,1.0,PGD white-box,400,0.054999999701976776
+ES,1,1,round 0 (clean),Recon,1.0,PGD transfer,400,0.05249999836087227
+ES,1,1,round 1,ARP_Spoofing,0.25,ES (training attacker),400,0.30000001192092896
+ES,1,1,round 1,ARP_Spoofing,0.25,ES 5x budget,400,0.3725000023841858
+ES,1,1,round 1,ARP_Spoofing,0.25,ES annealed,400,0.26249998807907104
+ES,1,1,round 1,ARP_Spoofing,0.25,PGD white-box,400,0.41999998688697815
+ES,1,1,round 1,ARP_Spoofing,0.25,PGD transfer,400,0.042500000447034836
+ES,1,1,round 1,ARP_Spoofing,0.5,ES (training attacker),400,0.7475000023841858
+ES,1,1,round 1,ARP_Spoofing,0.5,ES 5x budget,400,0.8550000190734863
+ES,1,1,round 1,ARP_Spoofing,0.5,ES annealed,400,0.6899999976158142
+ES,1,1,round 1,ARP_Spoofing,0.5,PGD white-box,400,0.9024999737739563
+ES,1,1,round 1,ARP_Spoofing,0.5,PGD transfer,400,0.032499998807907104
+ES,1,1,round 1,ARP_Spoofing,1.0,ES (training attacker),400,0.9975000023841858
+ES,1,1,round 1,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,1,round 1,ARP_Spoofing,1.0,ES annealed,400,0.9925000071525574
+ES,1,1,round 1,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,1,round 1,ARP_Spoofing,1.0,PGD transfer,400,0.10499999672174454
+ES,1,1,round 1,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.5874999761581421
+ES,1,1,round 1,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.612500011920929
+ES,1,1,round 1,MQTT-Malformed_Data,0.25,ES annealed,400,0.5824999809265137
+ES,1,1,round 1,MQTT-Malformed_Data,0.25,PGD white-box,400,0.6200000047683716
+ES,1,1,round 1,MQTT-Malformed_Data,0.25,PGD transfer,400,0.027499999850988388
+ES,1,1,round 1,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.675000011920929
+ES,1,1,round 1,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6800000071525574
+ES,1,1,round 1,MQTT-Malformed_Data,0.5,ES annealed,400,0.6725000143051147
+ES,1,1,round 1,MQTT-Malformed_Data,0.5,PGD white-box,400,0.6800000071525574
+ES,1,1,round 1,MQTT-Malformed_Data,0.5,PGD transfer,400,0.019999999552965164
+ES,1,1,round 1,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.6949999928474426
+ES,1,1,round 1,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.699999988079071
+ES,1,1,round 1,MQTT-Malformed_Data,1.0,ES annealed,400,0.699999988079071
+ES,1,1,round 1,MQTT-Malformed_Data,1.0,PGD white-box,400,0.7049999833106995
+ES,1,1,round 1,MQTT-Malformed_Data,1.0,PGD transfer,400,0.03999999910593033
+ES,1,1,round 1,Recon,0.25,ES (training attacker),400,0.027499999850988388
+ES,1,1,round 1,Recon,0.25,ES 5x budget,400,0.027499999850988388
+ES,1,1,round 1,Recon,0.25,ES annealed,400,0.027499999850988388
+ES,1,1,round 1,Recon,0.25,PGD white-box,400,0.027499999850988388
+ES,1,1,round 1,Recon,0.25,PGD transfer,400,0.007499999832361937
+ES,1,1,round 1,Recon,0.5,ES (training attacker),400,0.03750000149011612
+ES,1,1,round 1,Recon,0.5,ES 5x budget,400,0.03750000149011612
+ES,1,1,round 1,Recon,0.5,ES annealed,400,0.03750000149011612
+ES,1,1,round 1,Recon,0.5,PGD white-box,400,0.03750000149011612
+ES,1,1,round 1,Recon,0.5,PGD transfer,400,0.004999999888241291
+ES,1,1,round 1,Recon,1.0,ES (training attacker),400,0.0625
+ES,1,1,round 1,Recon,1.0,ES 5x budget,400,0.07249999791383743
+ES,1,1,round 1,Recon,1.0,ES annealed,400,0.06499999761581421
+ES,1,1,round 1,Recon,1.0,PGD white-box,400,0.07249999791383743
+ES,1,1,round 1,Recon,1.0,PGD transfer,400,0.0024999999441206455
+ES,1,1,round 2,ARP_Spoofing,0.25,ES (training attacker),400,0.3050000071525574
+ES,1,1,round 2,ARP_Spoofing,0.25,ES 5x budget,400,0.3700000047683716
+ES,1,1,round 2,ARP_Spoofing,0.25,ES annealed,400,0.27000001072883606
+ES,1,1,round 2,ARP_Spoofing,0.25,PGD white-box,400,0.3774999976158142
+ES,1,1,round 2,ARP_Spoofing,0.25,PGD transfer,400,0.029999999329447746
+ES,1,1,round 2,ARP_Spoofing,0.5,ES (training attacker),400,0.7250000238418579
+ES,1,1,round 2,ARP_Spoofing,0.5,ES 5x budget,400,0.9399999976158142
+ES,1,1,round 2,ARP_Spoofing,0.5,ES annealed,400,0.7200000286102295
+ES,1,1,round 2,ARP_Spoofing,0.5,PGD white-box,400,0.9549999833106995
+ES,1,1,round 2,ARP_Spoofing,0.5,PGD transfer,400,0.032499998807907104
+ES,1,1,round 2,ARP_Spoofing,1.0,ES (training attacker),400,0.9950000047683716
+ES,1,1,round 2,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,1,round 2,ARP_Spoofing,1.0,ES annealed,400,0.9975000023841858
+ES,1,1,round 2,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,1,round 2,ARP_Spoofing,1.0,PGD transfer,400,0.014999999664723873
+ES,1,1,round 2,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.29750001430511475
+ES,1,1,round 2,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.36000001430511475
+ES,1,1,round 2,MQTT-Malformed_Data,0.25,ES annealed,400,0.3075000047683716
+ES,1,1,round 2,MQTT-Malformed_Data,0.25,PGD white-box,400,0.36500000953674316
+ES,1,1,round 2,MQTT-Malformed_Data,0.25,PGD transfer,400,0.054999999701976776
+ES,1,1,round 2,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.4925000071525574
+ES,1,1,round 2,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.5724999904632568
+ES,1,1,round 2,MQTT-Malformed_Data,0.5,ES annealed,400,0.47749999165534973
+ES,1,1,round 2,MQTT-Malformed_Data,0.5,PGD white-box,400,0.5874999761581421
+ES,1,1,round 2,MQTT-Malformed_Data,0.5,PGD transfer,400,0.04749999940395355
+ES,1,1,round 2,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.6499999761581421
+ES,1,1,round 2,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.6700000166893005
+ES,1,1,round 2,MQTT-Malformed_Data,1.0,ES annealed,400,0.6449999809265137
+ES,1,1,round 2,MQTT-Malformed_Data,1.0,PGD white-box,400,0.675000011920929
+ES,1,1,round 2,MQTT-Malformed_Data,1.0,PGD transfer,400,0.054999999701976776
+ES,1,1,round 2,Recon,0.25,ES (training attacker),400,0.014999999664723873
+ES,1,1,round 2,Recon,0.25,ES 5x budget,400,0.017500000074505806
+ES,1,1,round 2,Recon,0.25,ES annealed,400,0.012500000186264515
+ES,1,1,round 2,Recon,0.25,PGD white-box,400,0.017500000074505806
+ES,1,1,round 2,Recon,0.25,PGD transfer,400,0.0
+ES,1,1,round 2,Recon,0.5,ES (training attacker),400,0.019999999552965164
+ES,1,1,round 2,Recon,0.5,ES 5x budget,400,0.019999999552965164
+ES,1,1,round 2,Recon,0.5,ES annealed,400,0.019999999552965164
+ES,1,1,round 2,Recon,0.5,PGD white-box,400,0.019999999552965164
+ES,1,1,round 2,Recon,0.5,PGD transfer,400,0.004999999888241291
+ES,1,1,round 2,Recon,1.0,ES (training attacker),400,0.042500000447034836
+ES,1,1,round 2,Recon,1.0,ES 5x budget,400,0.05249999836087227
+ES,1,1,round 2,Recon,1.0,ES annealed,400,0.042500000447034836
+ES,1,1,round 2,Recon,1.0,PGD white-box,400,0.05000000074505806
+ES,1,1,round 2,Recon,1.0,PGD transfer,400,0.0
+ES,1,2,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.29499998688697815
+ES,1,2,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.32499998807907104
+ES,1,2,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.2750000059604645
+ES,1,2,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.32749998569488525
+ES,1,2,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.18000000715255737
+ES,1,2,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.8274999856948853
+ES,1,2,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.8799999952316284
+ES,1,2,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.7850000262260437
+ES,1,2,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.9275000095367432
+ES,1,2,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.6800000071525574
+ES,1,2,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,2,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,2,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,2,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,2,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9900000095367432
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.6200000047683716
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.6349999904632568
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.6175000071525574
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.612500011920929
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5774999856948853
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.6899999976158142
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6899999976158142
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.6825000047683716
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.6825000047683716
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.6474999785423279
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.7200000286102295
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.7250000238418579
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.7149999737739563
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.7250000238418579
+ES,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.699999988079071
+ES,1,2,round 0 (clean),Recon,0.25,ES (training attacker),400,0.02250000089406967
+ES,1,2,round 0 (clean),Recon,0.25,ES 5x budget,400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,0.25,ES annealed,400,0.02250000089406967
+ES,1,2,round 0 (clean),Recon,0.25,PGD white-box,400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,0.25,PGD transfer,400,0.019999999552965164
+ES,1,2,round 0 (clean),Recon,0.5,ES (training attacker),400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,0.5,ES 5x budget,400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,0.5,ES annealed,400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,0.5,PGD white-box,400,0.03999999910593033
+ES,1,2,round 0 (clean),Recon,0.5,PGD transfer,400,0.03500000014901161
+ES,1,2,round 0 (clean),Recon,1.0,ES (training attacker),400,0.04500000178813934
+ES,1,2,round 0 (clean),Recon,1.0,ES 5x budget,400,0.04500000178813934
+ES,1,2,round 0 (clean),Recon,1.0,ES annealed,400,0.04500000178813934
+ES,1,2,round 0 (clean),Recon,1.0,PGD white-box,400,0.04749999940395355
+ES,1,2,round 0 (clean),Recon,1.0,PGD transfer,400,0.03999999910593033
+ES,1,2,round 1,ARP_Spoofing,0.25,ES (training attacker),400,0.39500001072883606
+ES,1,2,round 1,ARP_Spoofing,0.25,ES 5x budget,400,0.5149999856948853
+ES,1,2,round 1,ARP_Spoofing,0.25,ES annealed,400,0.3675000071525574
+ES,1,2,round 1,ARP_Spoofing,0.25,PGD white-box,400,0.5899999737739563
+ES,1,2,round 1,ARP_Spoofing,0.25,PGD transfer,400,0.0024999999441206455
+ES,1,2,round 1,ARP_Spoofing,0.5,ES (training attacker),400,0.9800000190734863
+ES,1,2,round 1,ARP_Spoofing,0.5,ES 5x budget,400,0.9950000047683716
+ES,1,2,round 1,ARP_Spoofing,0.5,ES annealed,400,0.9574999809265137
+ES,1,2,round 1,ARP_Spoofing,0.5,PGD white-box,400,0.9950000047683716
+ES,1,2,round 1,ARP_Spoofing,0.5,PGD transfer,400,0.017500000074505806
+ES,1,2,round 1,ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,2,round 1,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,2,round 1,ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,2,round 1,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,2,round 1,ARP_Spoofing,1.0,PGD transfer,400,0.12999999523162842
+ES,1,2,round 1,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.5174999833106995
+ES,1,2,round 1,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5799999833106995
+ES,1,2,round 1,MQTT-Malformed_Data,0.25,ES annealed,400,0.4975000023841858
+ES,1,2,round 1,MQTT-Malformed_Data,0.25,PGD white-box,400,0.5950000286102295
+ES,1,2,round 1,MQTT-Malformed_Data,0.25,PGD transfer,400,0.03750000149011612
+ES,1,2,round 1,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.6800000071525574
+ES,1,2,round 1,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6850000023841858
+ES,1,2,round 1,MQTT-Malformed_Data,0.5,ES annealed,400,0.6800000071525574
+ES,1,2,round 1,MQTT-Malformed_Data,0.5,PGD white-box,400,0.6899999976158142
+ES,1,2,round 1,MQTT-Malformed_Data,0.5,PGD transfer,400,0.032499998807907104
+ES,1,2,round 1,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.7049999833106995
+ES,1,2,round 1,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.7124999761581421
+ES,1,2,round 1,MQTT-Malformed_Data,1.0,ES annealed,400,0.7049999833106995
+ES,1,2,round 1,MQTT-Malformed_Data,1.0,PGD white-box,400,0.7149999737739563
+ES,1,2,round 1,MQTT-Malformed_Data,1.0,PGD transfer,400,0.03999999910593033
+ES,1,2,round 1,Recon,0.25,ES (training attacker),400,0.03750000149011612
+ES,1,2,round 1,Recon,0.25,ES 5x budget,400,0.03750000149011612
+ES,1,2,round 1,Recon,0.25,ES annealed,400,0.03500000014901161
+ES,1,2,round 1,Recon,0.25,PGD white-box,400,0.03999999910593033
+ES,1,2,round 1,Recon,0.25,PGD transfer,400,0.004999999888241291
+ES,1,2,round 1,Recon,0.5,ES (training attacker),400,0.042500000447034836
+ES,1,2,round 1,Recon,0.5,ES 5x budget,400,0.04500000178813934
+ES,1,2,round 1,Recon,0.5,ES annealed,400,0.03999999910593033
+ES,1,2,round 1,Recon,0.5,PGD white-box,400,0.04500000178813934
+ES,1,2,round 1,Recon,0.5,PGD transfer,400,0.012500000186264515
+ES,1,2,round 1,Recon,1.0,ES (training attacker),400,0.0625
+ES,1,2,round 1,Recon,1.0,ES 5x budget,400,0.07000000029802322
+ES,1,2,round 1,Recon,1.0,ES annealed,400,0.06499999761581421
+ES,1,2,round 1,Recon,1.0,PGD white-box,400,0.07750000059604645
+ES,1,2,round 1,Recon,1.0,PGD transfer,400,0.014999999664723873
+ES,1,2,round 2,ARP_Spoofing,0.25,ES (training attacker),400,0.5450000166893005
+ES,1,2,round 2,ARP_Spoofing,0.25,ES 5x budget,400,0.7149999737739563
+ES,1,2,round 2,ARP_Spoofing,0.25,ES annealed,400,0.5400000214576721
+ES,1,2,round 2,ARP_Spoofing,0.25,PGD white-box,400,0.8075000047683716
+ES,1,2,round 2,ARP_Spoofing,0.25,PGD transfer,400,0.03500000014901161
+ES,1,2,round 2,ARP_Spoofing,0.5,ES (training attacker),400,0.9950000047683716
+ES,1,2,round 2,ARP_Spoofing,0.5,ES 5x budget,400,0.9975000023841858
+ES,1,2,round 2,ARP_Spoofing,0.5,ES annealed,400,0.9925000071525574
+ES,1,2,round 2,ARP_Spoofing,0.5,PGD white-box,400,1.0
+ES,1,2,round 2,ARP_Spoofing,0.5,PGD transfer,400,0.10499999672174454
+ES,1,2,round 2,ARP_Spoofing,1.0,ES (training attacker),400,1.0
+ES,1,2,round 2,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+ES,1,2,round 2,ARP_Spoofing,1.0,ES annealed,400,1.0
+ES,1,2,round 2,ARP_Spoofing,1.0,PGD white-box,400,1.0
+ES,1,2,round 2,ARP_Spoofing,1.0,PGD transfer,400,0.07000000029802322
+ES,1,2,round 2,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.47999998927116394
+ES,1,2,round 2,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5099999904632568
+ES,1,2,round 2,MQTT-Malformed_Data,0.25,ES annealed,400,0.4749999940395355
+ES,1,2,round 2,MQTT-Malformed_Data,0.25,PGD white-box,400,0.5199999809265137
+ES,1,2,round 2,MQTT-Malformed_Data,0.25,PGD transfer,400,0.04500000178813934
+ES,1,2,round 2,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.5774999856948853
+ES,1,2,round 2,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.5899999737739563
+ES,1,2,round 2,MQTT-Malformed_Data,0.5,ES annealed,400,0.5699999928474426
+ES,1,2,round 2,MQTT-Malformed_Data,0.5,PGD white-box,400,0.5924999713897705
+ES,1,2,round 2,MQTT-Malformed_Data,0.5,PGD transfer,400,0.042500000447034836
+ES,1,2,round 2,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.699999988079071
+ES,1,2,round 2,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.75
+ES,1,2,round 2,MQTT-Malformed_Data,1.0,ES annealed,400,0.6974999904632568
+ES,1,2,round 2,MQTT-Malformed_Data,1.0,PGD white-box,400,0.8199999928474426
+ES,1,2,round 2,MQTT-Malformed_Data,1.0,PGD transfer,400,0.03999999910593033
+ES,1,2,round 2,Recon,0.25,ES (training attacker),400,0.03750000149011612
+ES,1,2,round 2,Recon,0.25,ES 5x budget,400,0.03750000149011612
+ES,1,2,round 2,Recon,0.25,ES annealed,400,0.03750000149011612
+ES,1,2,round 2,Recon,0.25,PGD white-box,400,0.03750000149011612
+ES,1,2,round 2,Recon,0.25,PGD transfer,400,0.0
+ES,1,2,round 2,Recon,0.5,ES (training attacker),400,0.04749999940395355
+ES,1,2,round 2,Recon,0.5,ES 5x budget,400,0.04749999940395355
+ES,1,2,round 2,Recon,0.5,ES annealed,400,0.04749999940395355
+ES,1,2,round 2,Recon,0.5,PGD white-box,400,0.04749999940395355
+ES,1,2,round 2,Recon,0.5,PGD transfer,400,0.004999999888241291
+ES,1,2,round 2,Recon,1.0,ES (training attacker),400,0.07999999821186066
+ES,1,2,round 2,Recon,1.0,ES 5x budget,400,0.08749999850988388
+ES,1,2,round 2,Recon,1.0,ES annealed,400,0.08500000089406967
+ES,1,2,round 2,Recon,1.0,PGD white-box,400,0.09000000357627869
+ES,1,2,round 2,Recon,1.0,PGD transfer,400,0.007499999832361937
