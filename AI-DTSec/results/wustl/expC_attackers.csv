@@ -1,0 +1,271 @@
+seed,round,eps,attacker,threshold,evasion
+0,round 0 (clean),0.25,ES (training attacker),validation-calibrated,0.11406844109296799
+0,round 0 (clean),0.25,Random search,validation-calibrated,0.015209125354886055
+0,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.15589353442192078
+0,round 0 (clean),0.25,PGD white-box,validation-calibrated,0.17110265791416168
+0,round 0 (clean),0.25,PGD transfer (surrogate),validation-calibrated,0.13307984173297882
+0,round 0 (clean),0.25,ES (training attacker),test-matched 5% FPR,0.17175573110580444
+0,round 0 (clean),0.25,Random search,test-matched 5% FPR,0.03435114398598671
+0,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.20229007303714752
+0,round 0 (clean),0.25,PGD white-box,test-matched 5% FPR,0.2099236696958542
+0,round 0 (clean),0.25,PGD transfer (surrogate),test-matched 5% FPR,0.1679389327764511
+0,round 0 (clean),0.5,ES (training attacker),validation-calibrated,0.5551331043243408
+0,round 0 (clean),0.5,Random search,validation-calibrated,0.20532318949699402
+0,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.6387832760810852
+0,round 0 (clean),0.5,PGD white-box,validation-calibrated,0.6425855755805969
+0,round 0 (clean),0.5,PGD transfer (surrogate),validation-calibrated,0.5399239659309387
+0,round 0 (clean),0.5,ES (training attacker),test-matched 5% FPR,0.6297709941864014
+0,round 0 (clean),0.5,Random search,test-matched 5% FPR,0.24809160828590393
+0,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.6717557311058044
+0,round 0 (clean),0.5,PGD white-box,test-matched 5% FPR,0.7061068415641785
+0,round 0 (clean),0.5,PGD transfer (surrogate),test-matched 5% FPR,0.5763359069824219
+0,round 0 (clean),1.0,ES (training attacker),validation-calibrated,0.9163498282432556
+0,round 0 (clean),1.0,Random search,validation-calibrated,0.7034220695495605
+0,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.9239543676376343
+0,round 0 (clean),1.0,PGD white-box,validation-calibrated,0.927756667137146
+0,round 0 (clean),1.0,PGD transfer (surrogate),validation-calibrated,0.8669201731681824
+0,round 0 (clean),1.0,ES (training attacker),test-matched 5% FPR,0.919847309589386
+0,round 0 (clean),1.0,Random search,test-matched 5% FPR,0.7557252049446106
+0,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.927480936050415
+0,round 0 (clean),1.0,PGD white-box,test-matched 5% FPR,0.927480936050415
+0,round 0 (clean),1.0,PGD transfer (surrogate),test-matched 5% FPR,0.8664122223854065
+0,round 1,0.25,ES (training attacker),validation-calibrated,0.003846153849735856
+0,round 1,0.25,Random search,validation-calibrated,0.0
+0,round 1,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.003846153849735856
+0,round 1,0.25,PGD white-box,validation-calibrated,0.007692307699471712
+0,round 1,0.25,PGD transfer (surrogate),validation-calibrated,0.0
+0,round 1,0.25,ES (training attacker),test-matched 5% FPR,0.007662835065275431
+0,round 1,0.25,Random search,test-matched 5% FPR,0.0038314175326377153
+0,round 1,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.007662835065275431
+0,round 1,0.25,PGD white-box,test-matched 5% FPR,0.007662835065275431
+0,round 1,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0038314175326377153
+0,round 1,0.5,ES (training attacker),validation-calibrated,0.29230770468711853
+0,round 1,0.5,Random search,validation-calibrated,0.015384615398943424
+0,round 1,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.39230769872665405
+0,round 1,0.5,PGD white-box,validation-calibrated,0.4115384519100189
+0,round 1,0.5,PGD transfer (surrogate),validation-calibrated,0.0
+0,round 1,0.5,ES (training attacker),test-matched 5% FPR,0.26819923520088196
+0,round 1,0.5,Random search,test-matched 5% FPR,0.019157087430357933
+0,round 1,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.3601532578468323
+0,round 1,0.5,PGD white-box,test-matched 5% FPR,0.39463600516319275
+0,round 1,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0038314175326377153
+0,round 1,1.0,ES (training attacker),validation-calibrated,0.8500000238418579
+0,round 1,1.0,Random search,validation-calibrated,0.6461538672447205
+0,round 1,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.8769230842590332
+0,round 1,1.0,PGD white-box,validation-calibrated,0.8769230842590332
+0,round 1,1.0,PGD transfer (surrogate),validation-calibrated,0.015384615398943424
+0,round 1,1.0,ES (training attacker),test-matched 5% FPR,0.8505747318267822
+0,round 1,1.0,Random search,test-matched 5% FPR,0.6283524632453918
+0,round 1,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.8659003973007202
+0,round 1,1.0,PGD white-box,test-matched 5% FPR,0.8773946166038513
+0,round 1,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.019157087430357933
+0,round 2,0.25,ES (training attacker),validation-calibrated,0.0
+0,round 2,0.25,Random search,validation-calibrated,0.0
+0,round 2,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+0,round 2,0.25,PGD white-box,validation-calibrated,0.0
+0,round 2,0.25,PGD transfer (surrogate),validation-calibrated,0.0
+0,round 2,0.25,ES (training attacker),test-matched 5% FPR,0.0
+0,round 2,0.25,Random search,test-matched 5% FPR,0.0
+0,round 2,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0
+0,round 2,0.25,PGD white-box,test-matched 5% FPR,0.0
+0,round 2,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0
+0,round 2,0.5,ES (training attacker),validation-calibrated,0.0038314175326377153
+0,round 2,0.5,Random search,validation-calibrated,0.0
+0,round 2,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.007662835065275431
+0,round 2,0.5,PGD white-box,validation-calibrated,0.007662835065275431
+0,round 2,0.5,PGD transfer (surrogate),validation-calibrated,0.0
+0,round 2,0.5,ES (training attacker),test-matched 5% FPR,0.01149425283074379
+0,round 2,0.5,Random search,test-matched 5% FPR,0.0
+0,round 2,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.01149425283074379
+0,round 2,0.5,PGD white-box,test-matched 5% FPR,0.01149425283074379
+0,round 2,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0
+0,round 2,1.0,ES (training attacker),validation-calibrated,0.5823754668235779
+0,round 2,1.0,Random search,validation-calibrated,0.05747126415371895
+0,round 2,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.6819923520088196
+0,round 2,1.0,PGD white-box,validation-calibrated,0.7049808502197266
+0,round 2,1.0,PGD transfer (surrogate),validation-calibrated,0.01149425283074379
+0,round 2,1.0,ES (training attacker),test-matched 5% FPR,0.6360152959823608
+0,round 2,1.0,Random search,test-matched 5% FPR,0.08429118990898132
+0,round 2,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.7241379022598267
+0,round 2,1.0,PGD white-box,test-matched 5% FPR,0.7318007946014404
+0,round 2,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.01149425283074379
+1,round 0 (clean),0.25,ES (training attacker),validation-calibrated,0.0076045626774430275
+1,round 0 (clean),0.25,Random search,validation-calibrated,0.0038022813387215137
+1,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0076045626774430275
+1,round 0 (clean),0.25,PGD white-box,validation-calibrated,0.0076045626774430275
+1,round 0 (clean),0.25,PGD transfer (surrogate),validation-calibrated,0.0076045626774430275
+1,round 0 (clean),0.25,ES (training attacker),test-matched 5% FPR,0.0076045626774430275
+1,round 0 (clean),0.25,Random search,test-matched 5% FPR,0.0038022813387215137
+1,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0076045626774430275
+1,round 0 (clean),0.25,PGD white-box,test-matched 5% FPR,0.015209125354886055
+1,round 0 (clean),0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0076045626774430275
+1,round 0 (clean),0.5,ES (training attacker),validation-calibrated,0.18250951170921326
+1,round 0 (clean),0.5,Random search,validation-calibrated,0.026615969836711884
+1,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.22053231298923492
+1,round 0 (clean),0.5,PGD white-box,validation-calibrated,0.23954372107982635
+1,round 0 (clean),0.5,PGD transfer (surrogate),validation-calibrated,0.20912547409534454
+1,round 0 (clean),0.5,ES (training attacker),test-matched 5% FPR,0.20532318949699402
+1,round 0 (clean),0.5,Random search,test-matched 5% FPR,0.03802281245589256
+1,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.2623574137687683
+1,round 0 (clean),0.5,PGD white-box,test-matched 5% FPR,0.2851710915565491
+1,round 0 (clean),0.5,PGD transfer (surrogate),test-matched 5% FPR,0.2471482902765274
+1,round 0 (clean),1.0,ES (training attacker),validation-calibrated,0.8250950574874878
+1,round 0 (clean),1.0,Random search,validation-calibrated,0.3954372704029083
+1,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.8326995968818665
+1,round 0 (clean),1.0,PGD white-box,validation-calibrated,0.8365018963813782
+1,round 0 (clean),1.0,PGD transfer (surrogate),validation-calibrated,0.8250950574874878
+1,round 0 (clean),1.0,ES (training attacker),test-matched 5% FPR,0.8326995968818665
+1,round 0 (clean),1.0,Random search,test-matched 5% FPR,0.4372623562812805
+1,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.8365018963813782
+1,round 0 (clean),1.0,PGD white-box,test-matched 5% FPR,0.8441064357757568
+1,round 0 (clean),1.0,PGD transfer (surrogate),test-matched 5% FPR,0.8326995968818665
+1,round 1,0.25,ES (training attacker),validation-calibrated,0.0038314175326377153
+1,round 1,0.25,Random search,validation-calibrated,0.0038314175326377153
+1,round 1,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0038314175326377153
+1,round 1,0.25,PGD white-box,validation-calibrated,0.0038314175326377153
+1,round 1,0.25,PGD transfer (surrogate),validation-calibrated,0.0038314175326377153
+1,round 1,0.25,ES (training attacker),test-matched 5% FPR,0.0038314175326377153
+1,round 1,0.25,Random search,test-matched 5% FPR,0.0038314175326377153
+1,round 1,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0038314175326377153
+1,round 1,0.25,PGD white-box,test-matched 5% FPR,0.0038314175326377153
+1,round 1,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0038314175326377153
+1,round 1,0.5,ES (training attacker),validation-calibrated,0.14176245033740997
+1,round 1,0.5,Random search,validation-calibrated,0.019157087430357933
+1,round 1,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.19540229439735413
+1,round 1,0.5,PGD white-box,validation-calibrated,0.17241379618644714
+1,round 1,0.5,PGD transfer (surrogate),validation-calibrated,0.0038314175326377153
+1,round 1,0.5,ES (training attacker),test-matched 5% FPR,0.06513410061597824
+1,round 1,0.5,Random search,test-matched 5% FPR,0.015325670130550861
+1,round 1,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.1034482792019844
+1,round 1,0.5,PGD white-box,test-matched 5% FPR,0.1111111119389534
+1,round 1,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0038314175326377153
+1,round 1,1.0,ES (training attacker),validation-calibrated,0.8007662892341614
+1,round 1,1.0,Random search,validation-calibrated,0.5517241358757019
+1,round 1,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.8160919547080994
+1,round 1,1.0,PGD white-box,validation-calibrated,0.8122605085372925
+1,round 1,1.0,PGD transfer (surrogate),validation-calibrated,0.04597701132297516
+1,round 1,1.0,ES (training attacker),test-matched 5% FPR,0.7854406237602234
+1,round 1,1.0,Random search,test-matched 5% FPR,0.4750957787036896
+1,round 1,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.8084291219711304
+1,round 1,1.0,PGD white-box,test-matched 5% FPR,0.8045976758003235
+1,round 1,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.03448275849223137
+1,round 2,0.25,ES (training attacker),validation-calibrated,0.0
+1,round 2,0.25,Random search,validation-calibrated,0.0
+1,round 2,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+1,round 2,0.25,PGD white-box,validation-calibrated,0.0
+1,round 2,0.25,PGD transfer (surrogate),validation-calibrated,0.0
+1,round 2,0.25,ES (training attacker),test-matched 5% FPR,0.0
+1,round 2,0.25,Random search,test-matched 5% FPR,0.0
+1,round 2,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0
+1,round 2,0.25,PGD white-box,test-matched 5% FPR,0.0
+1,round 2,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0
+1,round 2,0.5,ES (training attacker),validation-calibrated,0.0
+1,round 2,0.5,Random search,validation-calibrated,0.0
+1,round 2,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+1,round 2,0.5,PGD white-box,validation-calibrated,0.0
+1,round 2,0.5,PGD transfer (surrogate),validation-calibrated,0.0
+1,round 2,0.5,ES (training attacker),test-matched 5% FPR,0.0
+1,round 2,0.5,Random search,test-matched 5% FPR,0.0
+1,round 2,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0
+1,round 2,0.5,PGD white-box,test-matched 5% FPR,0.0
+1,round 2,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0
+1,round 2,1.0,ES (training attacker),validation-calibrated,0.20454545319080353
+1,round 2,1.0,Random search,validation-calibrated,0.018939394503831863
+1,round 2,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.3068181872367859
+1,round 2,1.0,PGD white-box,validation-calibrated,0.3484848439693451
+1,round 2,1.0,PGD transfer (surrogate),validation-calibrated,0.03787878900766373
+1,round 2,1.0,ES (training attacker),test-matched 5% FPR,0.21969696879386902
+1,round 2,1.0,Random search,test-matched 5% FPR,0.018939394503831863
+1,round 2,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.3181818127632141
+1,round 2,1.0,PGD white-box,test-matched 5% FPR,0.375
+1,round 2,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.03787878900766373
+2,round 0 (clean),0.25,ES (training attacker),validation-calibrated,0.04597701132297516
+2,round 0 (clean),0.25,Random search,validation-calibrated,0.019157087430357933
+2,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.049808427691459656
+2,round 0 (clean),0.25,PGD white-box,validation-calibrated,0.061302680522203445
+2,round 0 (clean),0.25,PGD transfer (surrogate),validation-calibrated,0.04597701132297516
+2,round 0 (clean),0.25,ES (training attacker),test-matched 5% FPR,0.04615384712815285
+2,round 0 (clean),0.25,Random search,test-matched 5% FPR,0.01923076994717121
+2,round 0 (clean),0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0615384615957737
+2,round 0 (clean),0.25,PGD white-box,test-matched 5% FPR,0.07307692617177963
+2,round 0 (clean),0.25,PGD transfer (surrogate),test-matched 5% FPR,0.05000000074505806
+2,round 0 (clean),0.5,ES (training attacker),validation-calibrated,0.4559386968612671
+2,round 0 (clean),0.5,Random search,validation-calibrated,0.09961685538291931
+2,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.5363984704017639
+2,round 0 (clean),0.5,PGD white-box,validation-calibrated,0.5478927493095398
+2,round 0 (clean),0.5,PGD transfer (surrogate),validation-calibrated,0.4521072804927826
+2,round 0 (clean),0.5,ES (training attacker),test-matched 5% FPR,0.4923076927661896
+2,round 0 (clean),0.5,Random search,test-matched 5% FPR,0.11538461595773697
+2,round 0 (clean),0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.5384615659713745
+2,round 0 (clean),0.5,PGD white-box,test-matched 5% FPR,0.5615384578704834
+2,round 0 (clean),0.5,PGD transfer (surrogate),test-matched 5% FPR,0.48461538553237915
+2,round 0 (clean),1.0,ES (training attacker),validation-calibrated,0.8812260627746582
+2,round 0 (clean),1.0,Random search,validation-calibrated,0.6398467421531677
+2,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.9003831148147583
+2,round 0 (clean),1.0,PGD white-box,validation-calibrated,0.9118773937225342
+2,round 0 (clean),1.0,PGD transfer (surrogate),validation-calibrated,0.8812260627746582
+2,round 0 (clean),1.0,ES (training attacker),test-matched 5% FPR,0.8884615302085876
+2,round 0 (clean),1.0,Random search,test-matched 5% FPR,0.6653845906257629
+2,round 0 (clean),1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.9038461446762085
+2,round 0 (clean),1.0,PGD white-box,test-matched 5% FPR,0.9115384817123413
+2,round 0 (clean),1.0,PGD transfer (surrogate),test-matched 5% FPR,0.8846153616905212
+2,round 1,0.25,ES (training attacker),validation-calibrated,0.0
+2,round 1,0.25,Random search,validation-calibrated,0.0
+2,round 1,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+2,round 1,0.25,PGD white-box,validation-calibrated,0.0
+2,round 1,0.25,PGD transfer (surrogate),validation-calibrated,0.0
+2,round 1,0.25,ES (training attacker),test-matched 5% FPR,0.0038022813387215137
+2,round 1,0.25,Random search,test-matched 5% FPR,0.0
+2,round 1,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0038022813387215137
+2,round 1,0.25,PGD white-box,test-matched 5% FPR,0.0076045626774430275
+2,round 1,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0
+2,round 1,0.5,ES (training attacker),validation-calibrated,0.034220531582832336
+2,round 1,0.5,Random search,validation-calibrated,0.0
+2,round 1,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.04182509332895279
+2,round 1,0.5,PGD white-box,validation-calibrated,0.05323193967342377
+2,round 1,0.5,PGD transfer (surrogate),validation-calibrated,0.0
+2,round 1,0.5,ES (training attacker),test-matched 5% FPR,0.15209124982357025
+2,round 1,0.5,Random search,test-matched 5% FPR,0.011406844481825829
+2,round 1,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.21292775869369507
+2,round 1,0.5,PGD white-box,test-matched 5% FPR,0.2471482902765274
+2,round 1,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0
+2,round 1,1.0,ES (training attacker),validation-calibrated,0.7072243094444275
+2,round 1,1.0,Random search,validation-calibrated,0.22433459758758545
+2,round 1,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.7604562640190125
+2,round 1,1.0,PGD white-box,validation-calibrated,0.7794677019119263
+2,round 1,1.0,PGD transfer (surrogate),validation-calibrated,0.0076045626774430275
+2,round 1,1.0,ES (training attacker),test-matched 5% FPR,0.7984790802001953
+2,round 1,1.0,Random search,test-matched 5% FPR,0.46768060326576233
+2,round 1,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.8136882185935974
+2,round 1,1.0,PGD white-box,test-matched 5% FPR,0.8479087352752686
+2,round 1,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.011406844481825829
+2,round 2,0.25,ES (training attacker),validation-calibrated,0.0
+2,round 2,0.25,Random search,validation-calibrated,0.0
+2,round 2,0.25,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+2,round 2,0.25,PGD white-box,validation-calibrated,0.0
+2,round 2,0.25,PGD transfer (surrogate),validation-calibrated,0.0
+2,round 2,0.25,ES (training attacker),test-matched 5% FPR,0.0
+2,round 2,0.25,Random search,test-matched 5% FPR,0.0
+2,round 2,0.25,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0
+2,round 2,0.25,PGD white-box,test-matched 5% FPR,0.0
+2,round 2,0.25,PGD transfer (surrogate),test-matched 5% FPR,0.0
+2,round 2,0.5,ES (training attacker),validation-calibrated,0.0
+2,round 2,0.5,Random search,validation-calibrated,0.0
+2,round 2,0.5,"ES 5x budget, sigma=eps/3",validation-calibrated,0.0
+2,round 2,0.5,PGD white-box,validation-calibrated,0.0
+2,round 2,0.5,PGD transfer (surrogate),validation-calibrated,0.0
+2,round 2,0.5,ES (training attacker),test-matched 5% FPR,0.0
+2,round 2,0.5,Random search,test-matched 5% FPR,0.0
+2,round 2,0.5,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.0
+2,round 2,0.5,PGD white-box,test-matched 5% FPR,0.0
+2,round 2,0.5,PGD transfer (surrogate),test-matched 5% FPR,0.0
+2,round 2,1.0,ES (training attacker),validation-calibrated,0.20306512713432312
+2,round 2,1.0,Random search,validation-calibrated,0.007662835065275431
+2,round 2,1.0,"ES 5x budget, sigma=eps/3",validation-calibrated,0.3256705105304718
+2,round 2,1.0,PGD white-box,validation-calibrated,0.3256705105304718
+2,round 2,1.0,PGD transfer (surrogate),validation-calibrated,0.0
+2,round 2,1.0,ES (training attacker),test-matched 5% FPR,0.39080458879470825
+2,round 2,1.0,Random search,test-matched 5% FPR,0.019157087430357933
+2,round 2,1.0,"ES 5x budget, sigma=eps/3",test-matched 5% FPR,0.49425286054611206
+2,round 2,1.0,PGD white-box,test-matched 5% FPR,0.4597701132297516
+2,round 2,1.0,PGD transfer (surrogate),test-matched 5% FPR,0.019157087430357933

@@ -1,0 +1,271 @@
+hard,constrained,seed,round,target,eps,attacker,n,evasion
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.29750001430511475
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.375
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.2874999940395355
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.39250001311302185
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.19499999284744263
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.9775000214576721
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.987500011920929
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.9700000286102295
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.9850000143051147
+MADRY,1,0,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.824999988079071
+MADRY,1,0,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+MADRY,1,0,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+MADRY,1,0,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+MADRY,1,0,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+MADRY,1,0,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9975000023841858
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.5849999785423279
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.5924999713897705
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.5774999856948853
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.5824999809265137
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5274999737739563
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.6274999976158142
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6274999976158142
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.625
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.6274999976158142
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.5899999737739563
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.6349999904632568
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.6349999904632568
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.6349999904632568
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.6349999904632568
+MADRY,1,0,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.6274999976158142
+MADRY,1,0,round 0 (clean),Recon,0.25,ES (training attacker),400,0.017500000074505806
+MADRY,1,0,round 0 (clean),Recon,0.25,ES 5x budget,400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,0.25,ES annealed,400,0.017500000074505806
+MADRY,1,0,round 0 (clean),Recon,0.25,PGD white-box,400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,0.25,PGD transfer,400,0.012500000186264515
+MADRY,1,0,round 0 (clean),Recon,0.5,ES (training attacker),400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,0.5,ES 5x budget,400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,0.5,ES annealed,400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,0.5,PGD white-box,400,0.02250000089406967
+MADRY,1,0,round 0 (clean),Recon,0.5,PGD transfer,400,0.019999999552965164
+MADRY,1,0,round 0 (clean),Recon,1.0,ES (training attacker),400,0.04749999940395355
+MADRY,1,0,round 0 (clean),Recon,1.0,ES 5x budget,400,0.05249999836087227
+MADRY,1,0,round 0 (clean),Recon,1.0,ES annealed,400,0.04749999940395355
+MADRY,1,0,round 0 (clean),Recon,1.0,PGD white-box,400,0.054999999701976776
+MADRY,1,0,round 0 (clean),Recon,1.0,PGD transfer,400,0.02500000037252903
+MADRY,1,0,Madry,ARP_Spoofing,0.25,ES (training attacker),400,0.7074999809265137
+MADRY,1,0,Madry,ARP_Spoofing,0.25,ES 5x budget,400,0.7950000166893005
+MADRY,1,0,Madry,ARP_Spoofing,0.25,ES annealed,400,0.7149999737739563
+MADRY,1,0,Madry,ARP_Spoofing,0.25,PGD white-box,400,0.6050000190734863
+MADRY,1,0,Madry,ARP_Spoofing,0.25,PGD transfer,400,0.10999999940395355
+MADRY,1,0,Madry,ARP_Spoofing,0.5,ES (training attacker),400,0.9674999713897705
+MADRY,1,0,Madry,ARP_Spoofing,0.5,ES 5x budget,400,0.9850000143051147
+MADRY,1,0,Madry,ARP_Spoofing,0.5,ES annealed,400,0.949999988079071
+MADRY,1,0,Madry,ARP_Spoofing,0.5,PGD white-box,400,0.7699999809265137
+MADRY,1,0,Madry,ARP_Spoofing,0.5,PGD transfer,400,0.07750000059604645
+MADRY,1,0,Madry,ARP_Spoofing,1.0,ES (training attacker),400,1.0
+MADRY,1,0,Madry,ARP_Spoofing,1.0,ES 5x budget,400,1.0
+MADRY,1,0,Madry,ARP_Spoofing,1.0,ES annealed,400,1.0
+MADRY,1,0,Madry,ARP_Spoofing,1.0,PGD white-box,400,0.9599999785423279
+MADRY,1,0,Madry,ARP_Spoofing,1.0,PGD transfer,400,0.15000000596046448
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.14000000059604645
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.15000000596046448
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.25,ES annealed,400,0.13500000536441803
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.25,PGD white-box,400,0.11999999731779099
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.25,PGD transfer,400,0.009999999776482582
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.1599999964237213
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.17000000178813934
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.5,ES annealed,400,0.16249999403953552
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.5,PGD white-box,400,0.12999999523162842
+MADRY,1,0,Madry,MQTT-Malformed_Data,0.5,PGD transfer,400,0.029999999329447746
+MADRY,1,0,Madry,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.18250000476837158
+MADRY,1,0,Madry,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.1899999976158142
+MADRY,1,0,Madry,MQTT-Malformed_Data,1.0,ES annealed,400,0.18250000476837158
+MADRY,1,0,Madry,MQTT-Malformed_Data,1.0,PGD white-box,400,0.1550000011920929
+MADRY,1,0,Madry,MQTT-Malformed_Data,1.0,PGD transfer,400,0.019999999552965164
+MADRY,1,0,Madry,Recon,0.25,ES (training attacker),400,0.004999999888241291
+MADRY,1,0,Madry,Recon,0.25,ES 5x budget,400,0.004999999888241291
+MADRY,1,0,Madry,Recon,0.25,ES annealed,400,0.004999999888241291
+MADRY,1,0,Madry,Recon,0.25,PGD white-box,400,0.004999999888241291
+MADRY,1,0,Madry,Recon,0.25,PGD transfer,400,0.0
+MADRY,1,0,Madry,Recon,0.5,ES (training attacker),400,0.009999999776482582
+MADRY,1,0,Madry,Recon,0.5,ES 5x budget,400,0.009999999776482582
+MADRY,1,0,Madry,Recon,0.5,ES annealed,400,0.009999999776482582
+MADRY,1,0,Madry,Recon,0.5,PGD white-box,400,0.009999999776482582
+MADRY,1,0,Madry,Recon,0.5,PGD transfer,400,0.0024999999441206455
+MADRY,1,0,Madry,Recon,1.0,ES (training attacker),400,0.014999999664723873
+MADRY,1,0,Madry,Recon,1.0,ES 5x budget,400,0.019999999552965164
+MADRY,1,0,Madry,Recon,1.0,ES annealed,400,0.019999999552965164
+MADRY,1,0,Madry,Recon,1.0,PGD white-box,400,0.019999999552965164
+MADRY,1,0,Madry,Recon,1.0,PGD transfer,400,0.009999999776482582
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.1850000023841858
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.21250000596046448
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.18250000476837158
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.2199999988079071
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.13750000298023224
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.6075000166893005
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.7250000238418579
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.5874999761581421
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.8050000071525574
+MADRY,1,1,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.49000000953674316
+MADRY,1,1,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+MADRY,1,1,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+MADRY,1,1,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+MADRY,1,1,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+MADRY,1,1,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9850000143051147
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.6175000071525574
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.6225000023841858
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.6000000238418579
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.625
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5325000286102295
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.7049999833106995
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.7074999809265137
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.699999988079071
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.7049999833106995
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.6424999833106995
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.7124999761581421
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.7200000286102295
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.7174999713897705
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.7225000262260437
+MADRY,1,1,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.6875
+MADRY,1,1,round 0 (clean),Recon,0.25,ES (training attacker),400,0.03750000149011612
+MADRY,1,1,round 0 (clean),Recon,0.25,ES 5x budget,400,0.042500000447034836
+MADRY,1,1,round 0 (clean),Recon,0.25,ES annealed,400,0.042500000447034836
+MADRY,1,1,round 0 (clean),Recon,0.25,PGD white-box,400,0.042500000447034836
+MADRY,1,1,round 0 (clean),Recon,0.25,PGD transfer,400,0.032499998807907104
+MADRY,1,1,round 0 (clean),Recon,0.5,ES (training attacker),400,0.05000000074505806
+MADRY,1,1,round 0 (clean),Recon,0.5,ES 5x budget,400,0.05000000074505806
+MADRY,1,1,round 0 (clean),Recon,0.5,ES annealed,400,0.05000000074505806
+MADRY,1,1,round 0 (clean),Recon,0.5,PGD white-box,400,0.05249999836087227
+MADRY,1,1,round 0 (clean),Recon,0.5,PGD transfer,400,0.04749999940395355
+MADRY,1,1,round 0 (clean),Recon,1.0,ES (training attacker),400,0.05249999836087227
+MADRY,1,1,round 0 (clean),Recon,1.0,ES 5x budget,400,0.05249999836087227
+MADRY,1,1,round 0 (clean),Recon,1.0,ES annealed,400,0.054999999701976776
+MADRY,1,1,round 0 (clean),Recon,1.0,PGD white-box,400,0.054999999701976776
+MADRY,1,1,round 0 (clean),Recon,1.0,PGD transfer,400,0.05249999836087227
+MADRY,1,1,Madry,ARP_Spoofing,0.25,ES (training attacker),400,0.3400000035762787
+MADRY,1,1,Madry,ARP_Spoofing,0.25,ES 5x budget,400,0.4325000047683716
+MADRY,1,1,Madry,ARP_Spoofing,0.25,ES annealed,400,0.3400000035762787
+MADRY,1,1,Madry,ARP_Spoofing,0.25,PGD white-box,400,0.46000000834465027
+MADRY,1,1,Madry,ARP_Spoofing,0.25,PGD transfer,400,0.04500000178813934
+MADRY,1,1,Madry,ARP_Spoofing,0.5,ES (training attacker),400,0.9449999928474426
+MADRY,1,1,Madry,ARP_Spoofing,0.5,ES 5x budget,400,0.9700000286102295
+MADRY,1,1,Madry,ARP_Spoofing,0.5,ES annealed,400,0.9424999952316284
+MADRY,1,1,Madry,ARP_Spoofing,0.5,PGD white-box,400,0.9049999713897705
+MADRY,1,1,Madry,ARP_Spoofing,0.5,PGD transfer,400,0.1274999976158142
+MADRY,1,1,Madry,ARP_Spoofing,1.0,ES (training attacker),400,0.9975000023841858
+MADRY,1,1,Madry,ARP_Spoofing,1.0,ES 5x budget,400,0.9975000023841858
+MADRY,1,1,Madry,ARP_Spoofing,1.0,ES annealed,400,0.9975000023841858
+MADRY,1,1,Madry,ARP_Spoofing,1.0,PGD white-box,400,0.9325000047683716
+MADRY,1,1,Madry,ARP_Spoofing,1.0,PGD transfer,400,0.4650000035762787
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.2750000059604645
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.3050000071525574
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.25,ES annealed,400,0.2750000059604645
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.25,PGD white-box,400,0.30000001192092896
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.25,PGD transfer,400,0.042500000447034836
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.33500000834465027
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.3499999940395355
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.5,ES annealed,400,0.3375000059604645
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.5,PGD white-box,400,0.3474999964237213
+MADRY,1,1,Madry,MQTT-Malformed_Data,0.5,PGD transfer,400,0.04749999940395355
+MADRY,1,1,Madry,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.36250001192092896
+MADRY,1,1,Madry,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.3725000023841858
+MADRY,1,1,Madry,MQTT-Malformed_Data,1.0,ES annealed,400,0.36250001192092896
+MADRY,1,1,Madry,MQTT-Malformed_Data,1.0,PGD white-box,400,0.35499998927116394
+MADRY,1,1,Madry,MQTT-Malformed_Data,1.0,PGD transfer,400,0.03750000149011612
+MADRY,1,1,Madry,Recon,0.25,ES (training attacker),400,0.004999999888241291
+MADRY,1,1,Madry,Recon,0.25,ES 5x budget,400,0.004999999888241291
+MADRY,1,1,Madry,Recon,0.25,ES annealed,400,0.004999999888241291
+MADRY,1,1,Madry,Recon,0.25,PGD white-box,400,0.004999999888241291
+MADRY,1,1,Madry,Recon,0.25,PGD transfer,400,0.0
+MADRY,1,1,Madry,Recon,0.5,ES (training attacker),400,0.007499999832361937
+MADRY,1,1,Madry,Recon,0.5,ES 5x budget,400,0.007499999832361937
+MADRY,1,1,Madry,Recon,0.5,ES annealed,400,0.007499999832361937
+MADRY,1,1,Madry,Recon,0.5,PGD white-box,400,0.007499999832361937
+MADRY,1,1,Madry,Recon,0.5,PGD transfer,400,0.0
+MADRY,1,1,Madry,Recon,1.0,ES (training attacker),400,0.009999999776482582
+MADRY,1,1,Madry,Recon,1.0,ES 5x budget,400,0.009999999776482582
+MADRY,1,1,Madry,Recon,1.0,ES annealed,400,0.009999999776482582
+MADRY,1,1,Madry,Recon,1.0,PGD white-box,400,0.009999999776482582
+MADRY,1,1,Madry,Recon,1.0,PGD transfer,400,0.0024999999441206455
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.25,ES (training attacker),400,0.29499998688697815
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.25,ES 5x budget,400,0.32499998807907104
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.25,ES annealed,400,0.2750000059604645
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.25,PGD white-box,400,0.32749998569488525
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.25,PGD transfer,400,0.18000000715255737
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.5,ES (training attacker),400,0.8274999856948853
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.5,ES 5x budget,400,0.8799999952316284
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.5,ES annealed,400,0.7850000262260437
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.5,PGD white-box,400,0.9275000095367432
+MADRY,1,2,round 0 (clean),ARP_Spoofing,0.5,PGD transfer,400,0.6800000071525574
+MADRY,1,2,round 0 (clean),ARP_Spoofing,1.0,ES (training attacker),400,1.0
+MADRY,1,2,round 0 (clean),ARP_Spoofing,1.0,ES 5x budget,400,1.0
+MADRY,1,2,round 0 (clean),ARP_Spoofing,1.0,ES annealed,400,1.0
+MADRY,1,2,round 0 (clean),ARP_Spoofing,1.0,PGD white-box,400,1.0
+MADRY,1,2,round 0 (clean),ARP_Spoofing,1.0,PGD transfer,400,0.9900000095367432
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES (training attacker),400,0.6200000047683716
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES 5x budget,400,0.6349999904632568
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,ES annealed,400,0.6175000071525574
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,PGD white-box,400,0.612500011920929
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.25,PGD transfer,400,0.5774999856948853
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES (training attacker),400,0.6899999976158142
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES 5x budget,400,0.6899999976158142
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,ES annealed,400,0.6825000047683716
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,PGD white-box,400,0.6825000047683716
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,0.5,PGD transfer,400,0.6474999785423279
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES (training attacker),400,0.7200000286102295
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES 5x budget,400,0.7250000238418579
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,ES annealed,400,0.7149999737739563
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,PGD white-box,400,0.7250000238418579
+MADRY,1,2,round 0 (clean),MQTT-Malformed_Data,1.0,PGD transfer,400,0.699999988079071
+MADRY,1,2,round 0 (clean),Recon,0.25,ES (training attacker),400,0.02250000089406967
+MADRY,1,2,round 0 (clean),Recon,0.25,ES 5x budget,400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,0.25,ES annealed,400,0.02250000089406967
+MADRY,1,2,round 0 (clean),Recon,0.25,PGD white-box,400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,0.25,PGD transfer,400,0.019999999552965164
+MADRY,1,2,round 0 (clean),Recon,0.5,ES (training attacker),400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,0.5,ES 5x budget,400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,0.5,ES annealed,400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,0.5,PGD white-box,400,0.03999999910593033
+MADRY,1,2,round 0 (clean),Recon,0.5,PGD transfer,400,0.03500000014901161
+MADRY,1,2,round 0 (clean),Recon,1.0,ES (training attacker),400,0.04500000178813934
+MADRY,1,2,round 0 (clean),Recon,1.0,ES 5x budget,400,0.04500000178813934
+MADRY,1,2,round 0 (clean),Recon,1.0,ES annealed,400,0.04500000178813934
+MADRY,1,2,round 0 (clean),Recon,1.0,PGD white-box,400,0.04749999940395355
+MADRY,1,2,round 0 (clean),Recon,1.0,PGD transfer,400,0.03999999910593033
+MADRY,1,2,Madry,ARP_Spoofing,0.25,ES (training attacker),400,0.19249999523162842
+MADRY,1,2,Madry,ARP_Spoofing,0.25,ES 5x budget,400,0.20499999821186066
+MADRY,1,2,Madry,ARP_Spoofing,0.25,ES annealed,400,0.18000000715255737
+MADRY,1,2,Madry,ARP_Spoofing,0.25,PGD white-box,400,0.2175000011920929
+MADRY,1,2,Madry,ARP_Spoofing,0.25,PGD transfer,400,0.10499999672174454
+MADRY,1,2,Madry,ARP_Spoofing,0.5,ES (training attacker),400,0.699999988079071
+MADRY,1,2,Madry,ARP_Spoofing,0.5,ES 5x budget,400,0.8100000023841858
+MADRY,1,2,Madry,ARP_Spoofing,0.5,ES annealed,400,0.6424999833106995
+MADRY,1,2,Madry,ARP_Spoofing,0.5,PGD white-box,400,0.824999988079071
+MADRY,1,2,Madry,ARP_Spoofing,0.5,PGD transfer,400,0.2849999964237213
+MADRY,1,2,Madry,ARP_Spoofing,1.0,ES (training attacker),400,0.9825000166893005
+MADRY,1,2,Madry,ARP_Spoofing,1.0,ES 5x budget,400,0.9900000095367432
+MADRY,1,2,Madry,ARP_Spoofing,1.0,ES annealed,400,0.9825000166893005
+MADRY,1,2,Madry,ARP_Spoofing,1.0,PGD white-box,400,0.9950000047683716
+MADRY,1,2,Madry,ARP_Spoofing,1.0,PGD transfer,400,0.5099999904632568
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.25,ES (training attacker),400,0.1274999976158142
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.25,ES 5x budget,400,0.1574999988079071
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.25,ES annealed,400,0.125
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.25,PGD white-box,400,0.1525000035762787
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.25,PGD transfer,400,0.014999999664723873
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.5,ES (training attacker),400,0.20000000298023224
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.5,ES 5x budget,400,0.25999999046325684
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.5,ES annealed,400,0.2175000011920929
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.5,PGD white-box,400,0.26499998569488525
+MADRY,1,2,Madry,MQTT-Malformed_Data,0.5,PGD transfer,400,0.032499998807907104
+MADRY,1,2,Madry,MQTT-Malformed_Data,1.0,ES (training attacker),400,0.41499999165534973
+MADRY,1,2,Madry,MQTT-Malformed_Data,1.0,ES 5x budget,400,0.39750000834465027
+MADRY,1,2,Madry,MQTT-Malformed_Data,1.0,ES annealed,400,0.3675000071525574
+MADRY,1,2,Madry,MQTT-Malformed_Data,1.0,PGD white-box,400,0.4074999988079071
+MADRY,1,2,Madry,MQTT-Malformed_Data,1.0,PGD transfer,400,0.027499999850988388
+MADRY,1,2,Madry,Recon,0.25,ES (training attacker),400,0.017500000074505806
+MADRY,1,2,Madry,Recon,0.25,ES 5x budget,400,0.017500000074505806
+MADRY,1,2,Madry,Recon,0.25,ES annealed,400,0.017500000074505806
+MADRY,1,2,Madry,Recon,0.25,PGD white-box,400,0.017500000074505806
+MADRY,1,2,Madry,Recon,0.25,PGD transfer,400,0.014999999664723873
+MADRY,1,2,Madry,Recon,0.5,ES (training attacker),400,0.019999999552965164
+MADRY,1,2,Madry,Recon,0.5,ES 5x budget,400,0.019999999552965164
+MADRY,1,2,Madry,Recon,0.5,ES annealed,400,0.019999999552965164
+MADRY,1,2,Madry,Recon,0.5,PGD white-box,400,0.019999999552965164
+MADRY,1,2,Madry,Recon,0.5,PGD transfer,400,0.014999999664723873
+MADRY,1,2,Madry,Recon,1.0,ES (training attacker),400,0.02250000089406967
+MADRY,1,2,Madry,Recon,1.0,ES 5x budget,400,0.02250000089406967
+MADRY,1,2,Madry,Recon,1.0,ES annealed,400,0.02250000089406967
+MADRY,1,2,Madry,Recon,1.0,PGD white-box,400,0.02250000089406967
+MADRY,1,2,Madry,Recon,1.0,PGD transfer,400,0.012500000186264515
